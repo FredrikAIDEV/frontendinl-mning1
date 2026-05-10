@@ -9,29 +9,36 @@ h3{
 background-color: rgb(221,87,52);
 color: rgb(222,186,123);
 margin-bottom: 5px;
+width: 500px;
 }
 button{
 background-color: rgb(203,197,137);
 color: rgb(197,103,67);
-width: 100%;
+width: 500px;
 height: 50px;
 }
 p,ul,h1,label{
 color: rgb(222,186,123);
 }
 img{
-width: 100%;
+max-width: 500px;
+height: auto;
 }
 .bi.bi-rocket-takeoff-fill{
-font-size: 200%;
+font-size: 50px;
 }
 .input1{
-width: 99%;
+width:500px;
+max-width: 500px;
 }
 .input2{
-width: 100%;
+width:500px;
+max-width: 500px;
 }
 .input3{
-
-width: 50%;
+width:250px;
+max-width: 250px;
+}
+iframe{
+width: 500px;
 }
